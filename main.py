@@ -24,3 +24,7 @@ text = "Hello my name is George"
 
 if type(text) is str:
     print(text)
+    
+    
+for i in text:
+    print(i)    
